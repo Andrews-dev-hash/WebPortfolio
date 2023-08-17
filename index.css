@@ -1,0 +1,32 @@
+/*CSS Reset*/
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Bricolage Grotesque', sans-serif;
+}
+
+.profile-img{
+	height: 30rem ;
+	width: 40rem ;
+}
+
+#E-Commerce img{
+	height: 15rem ;
+	width: 30rem;
+}
+
+#Blog img{
+	height: 15rem ;
+	width: 30rem;
+} 
+
+#Booking-System img{
+	height: 15rem ;
+	width: 30rem;
+}
+
+body {
+	background-image: url(https://img.freepik.com/free-vector/bokeh-background_23-2148486863.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}  
